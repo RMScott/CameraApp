@@ -1,0 +1,7 @@
+<Alloy>
+	<TabGroup id="tabGroup" onOpen="doOpen">
+		<Require id="feedController" src="feed"/>
+		<Require id="settingsController" src="settings"/>
+		<Require id="friendsController" src="friends"/>
+	</TabGroup>
+</Alloy>
